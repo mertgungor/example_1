@@ -1,0 +1,29 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/mert/drone/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/mert/drone/src/drone_pkg/include/**",
+        "/home/mert/Desktop/example_1/Mert/src/example1_pkg/include/**",
+        "/home/mert/catkin_ws/src/ilk_package/include/**",
+        "/home/mert/catkin_ws/src/ilk_paket/include/**",
+        "/home/mert/catkin_ws/src/mavros/libmavconn/include/**",
+        "/home/mert/catkin_ws/src/mavros/mavros/include/**",
+        "/home/mert/catkin_ws/src/mavros/mavros_msgs/include/**",
+        "/home/mert/catkin_ws/src/mavros/test_mavros/include/**",
+        "/home/mert/drone/src/turtlebot3_simulations/turtlebot3_fake/include/**",
+        "/home/mert/drone/src/turtlebot3_simulations/turtlebot3_gazebo/include/**",
+        "/home/mert/drone/src/turtlebot3/turtlebot3_slam/include/**",
+        "${workspaceFolder}/devel/include",                
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}

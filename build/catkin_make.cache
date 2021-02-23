@@ -1,0 +1,2 @@
+example1_pkg
+-DCATKIN_DEVEL_PREFIX=/home/mert/Desktop/example_1/Mert/devel -DCMAKE_INSTALL_PREFIX=/home/mert/Desktop/example_1/Mert/install -G Unix Makefiles
